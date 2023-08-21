@@ -1,22 +1,28 @@
-# **Dr. Semmelweis and the Discovery of Handwashing**
+<h3 align="center"> 
+  🚧 DR. SEMMELWEIS AND THE DISCOVERY OF HANDWASHING 🚧
+</h3>
 
-## *Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.*
+---
+#### 📢 ABOUT:
+**Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.**
 
-#
-In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
+---
+#### ⚠️ PROJECT:
+*In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.*
 
-#
-1. Meet Dr. Ignaz Semmelweis
-2. The alarming number of deaths
-3. Death at the clinics
-4. The handwashing begins
-5. The effect of handwashing
-6. The effect of handwashing highlighted
-7. More handwashing, fewer deaths?
-8. A Bootstrap analysis of Semmelweis handwashing data
-9. The fate of Dr. Semmelweis
-#
+---
+#### ▶️ STEPS:
+- [x] Meet Dr. Ignaz Semmelweis
+- [x] The alarming number of deaths
+- [x] Death at the clinics
+- [x] The handwashing begins
+- [x] The effect of handwashing
+- [x] The effect of handwashing highlighted
+- [x] More handwashing, fewer deaths?
+- [x] A Bootstrap analysis of Semmelweis handwashing data
+- [x] The fate of Dr. Semmelweis
 
-- #### At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
-- #### Instructor: Rasmus Bååth
-- #### Career Track: Data Scientist with Python
+---
+##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
+##### 🧑‍🏫 **Instructor**: Rasmus Bååth
+##### 📖 **Career Track**: Data Scientist with Python
